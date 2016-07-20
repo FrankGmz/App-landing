@@ -4,4 +4,4 @@
 Playing with Bootsrap 4 and Jquey
 
 
-[View Project](https://rawgit.com/[user]/App-landing/master/index.html)
+[View Project](https://rawgit.com/FrankGmz/App-landing/master/index.html)
