@@ -1,0 +1,135 @@
+body {
+	position:relative;
+	font-family: 'Roboto Condensed', sans-serif !important;
+	background-color:#EFF0F1 !important;
+	margin-top: 40px;
+}
+
+h1[id],
+h2[id],
+h3[id],
+h4[id],
+h5[id],
+h6[id],
+dt[id]{
+    padding-top: 60px;
+    margin-top: -40px;
+}
+
+footer {
+	background-color: black;
+	color:white;
+	height:300px;
+	padding-top:50px;
+	text-align:center;
+}
+
+/* --------CLASSES ----------*/
+
+.jumbotron {
+	background-image: url('../images/water.jpeg');
+	background-size: 100% 100%;
+	height:650px;
+	color:white;
+	background-repeat:no-repeat;
+	text-align:center;
+	
+	
+}
+
+
+hr.m-y-2 {
+    height: 30px;
+    border-style: solid;
+    border-color: white;
+    border-width: 1px 0 0 0;
+    border-radius: 20px;
+}
+
+.subhead-text {
+	font-size:16px;
+}
+
+.container {
+	background-color: white;
+	padding-top:15px;
+	border-radius:20%;
+}
+
+.cardSize {
+	
+	height:180px;
+	width:318px
+}
+
+.card {
+	margin-top:40px;
+}
+
+.btns {
+	
+	margin-top:5px;
+}
+
+.center {
+	margin-top:100px;
+	margin-bottom:20px
+}
+
+/*-------- IDs -------*/
+
+
+#btn-2 {
+	
+	margin-top:30px;
+
+}
+
+#btn-b {
+	z-index:1000;
+}
+
+#nav-items {
+	display:inline;
+	float:left
+}
+
+#theContent {
+	
+	text-align:center;
+	padding-bottom:150px;
+	margin-bottom:50px;
+}
+
+#first-ico {
+	margin-top:15px
+}
+
+
+#second-subhead {
+	position:relative;
+	top:60px;
+	
+}
+
+
+
+#dropdownMenu1 {
+	float:left
+}
+
+
+
+#app-img {
+	margin-top:20px;
+	height:80px;
+	width:170px;
+}
+
+@media (max-width: 600px) {
+	
+	#btn-1 {
+		display: none;
+	}
+	
+}
